@@ -1,15 +1,15 @@
-# 🐍 Complete Python Programming Course
+# 🐍 Complete Python Programming training
 
 **Master Python from Basics to Advanced with Real-World Projects**
 
-> **Course Link**: [hitesh.ai](https://hitesh.ai)  
+> **training Link**: [hitesh.ai](https://hitesh.ai)  
 > **Instructor**: Hitesh Choudhary
 
 ---
 
-## 📚 Course Overview
+## 📚 training Overview
 
-This comprehensive Python course takes you from absolute beginner to advanced Python developer through hands-on projects and practical examples. Learn Python fundamentals, advanced concepts, and build real-world applications that showcase your skills.
+This comprehensive Python training takes you from absolute beginner to advanced Python developer through hands-on projects and practical examples. Learn Python fundamentals, advanced concepts, and build real-world applications that showcase your skills.
 
 ---
 
@@ -38,7 +38,7 @@ This comprehensive Python course takes you from absolute beginner to advanced Py
 
 ---
 
-## 📁 Course Structure
+## 📁 training Structure
 
 ### **01. Python Basics** (`00_python/`, `01_virtual/`, `02_datatypes/`)
 - Introduction to Python syntax and environment setup
@@ -136,7 +136,7 @@ This comprehensive Python course takes you from absolute beginner to advanced Py
 
 ## 🎓 Learning Outcomes
 
-By the end of this course, you will be able to:
+By the end of this training, you will be able to:
 
 ✅ **Write clean, efficient Python code**  
 ✅ **Build complete web applications**  
@@ -151,7 +151,7 @@ By the end of this course, you will be able to:
 
 ---
 
-## 🏆 Course Highlights
+## 🏆 training Highlights
 
 - **200+ Practical Examples** - Learn by doing with real code
 - **6 Complete Projects** - Build portfolio-worthy applications
@@ -184,15 +184,15 @@ By the end of this course, you will be able to:
 
 ## 📞 Support & Community
 
-- **Course Platform**: [hitesh.ai](https://hitesh.ai)
+- **training Platform**: [hitesh.ai](https://hitesh.ai)
 - **Instructor**: Hitesh Choudhary
-- **Community**: Join the course community for discussions and support
+- **Community**: Join the training community for discussions and support
 
 ---
 
 ## 📄 License
 
-This course material is provided for educational purposes. Please respect the instructor's intellectual property and course terms.
+This training material is provided for educational purposes. Please respect the instructor's intellectual property and training terms.
 
 ---
 
