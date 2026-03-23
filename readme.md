@@ -173,10 +173,7 @@ By the end of this training, you will be able to:
 ## 🎯 Target Audience
 
 - **Beginners** - No prior programming experience
-- **Students** - Learning Python for academic purposes
-- **Professionals** - Wanting to add Python to their skill set
-- **Career Changers** - Transitioning to software development
-- **Hobbyists** - Interested in automation and data analysis
+- **Professionals** - Wanting to add Python to their skills set
 ---
 
 ## 📄 License
