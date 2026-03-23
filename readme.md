@@ -177,15 +177,6 @@ By the end of this training, you will be able to:
 - **Professionals** - Wanting to add Python to their skill set
 - **Career Changers** - Transitioning to software development
 - **Hobbyists** - Interested in automation and data analysis
-
----
-
-## 📞 Support & Community
-
-- **training Platform**: [hitesh.ai](https://hitesh.ai)
-- **Instructor**: Hitesh Choudhary
-- **Community**: Join the training community for discussions and support
-
 ---
 
 ## 📄 License
