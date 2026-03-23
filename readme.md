@@ -1,15 +1,13 @@
-# 🐍 Complete Python Programming training
+# 🐍 Python Basic Training
 
 **Master Python from Basics to Advanced with Real-World Projects**
 
-> **training Link**: [hitesh.ai](https://hitesh.ai)  
-> **Instructor**: Hitesh Choudhary
-
 ---
 
-## 📚 training Overview
+## 📚 Training Overview
 
-This comprehensive Python training takes you from absolute beginner to advanced Python developer through hands-on projects and practical examples. Learn Python fundamentals, advanced concepts, and build real-world applications that showcase your skills.
+This comprehensive Python training 
+for course takes you from absolute beginner to advanced Python developer through hands-on projects and practical examples. Learn Python fundamentals, advanced concepts, and build real-world applications that showcase your skills.
 
 ---
 
